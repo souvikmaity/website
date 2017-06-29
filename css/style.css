@@ -79,10 +79,13 @@ body{
   font-size: 54px;
   padding-top: 12%;
 }
+#hero{
+  font-size: 95px;
+}
 .hero-text{
   font-weight: 400;
   text-align: center;
-  font-size: 18px;
+  font-size: 17.5px;
   color: #fff;
 }
 .bnt{
